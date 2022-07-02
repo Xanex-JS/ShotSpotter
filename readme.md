@@ -1,6 +1,7 @@
 # Installation
 
 Drag and drop ``ShotSpotter`` into your resource folder.
+
 Add ``ensure ShotSpotter`` into your server.cfg or resources.cfg
 
 # Important
