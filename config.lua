@@ -1,7 +1,6 @@
 --[[
-    Author: Joaquin_Guzman
+    Author: AussieDropBears
     Description: ShotSpotter for FiveM
-    Notes: Made for discord.gg/doj
 ]]
 
 Config = {}

@@ -1,7 +1,6 @@
 --[[
-    Author: Joaquin_Guzman
+    Author: AussieDropBears
     Description: ShotSpotter for FiveM
-    Notes: Made for discord.gg/doj
 ]]
 
 fx_version 'bodacious'
@@ -16,4 +15,3 @@ server_scripts {
 	-- 'server/server.lua',
 	'config.lua'
 }
-
