@@ -16,7 +16,7 @@ Citizen.CreateThread(function()
         if Config.EnablePriority == true then
         if isCop and isShooting then
             ExecuteCommand("priority")
-            --print("does the cop one work?e")
+            --print("does the cop one work?ee")
             TriggerEvent("ShotSpotterEvent")
             Wait(60 * 1000 * 5) -- You might want to wait 1 or 2 minutes to avoid spamming the event - i have this set to 5 minutes incase of a shootout
         elseif Config.EnablePriority == false and isCop and isShooting then
