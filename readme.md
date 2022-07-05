@@ -6,12 +6,12 @@ Add ``ensure ShotSpotter`` into your server.cfg or resources.cfg
 
 # Important
 
-This script is undergoing development, which will include broken permissions and HTTP Requests due to it not being ready for release.
+You will need a duty system to detect if a cop is on-duty or not.
 
-This is the development branch
+Feel Free to download my duty script for QTARGET (Permissions has been given to re-upload by the development team at QTARGET.)
 
 # Information
 
 This script now supports Blips
 
-Support for SnailyCADV4 by https://github.com/Dev-CasperTheGhost API Will be implemented soon! 
+Support for SnailyCADV4 by https://github.com/Dev-CasperTheGhost API Will be implemented soon!
