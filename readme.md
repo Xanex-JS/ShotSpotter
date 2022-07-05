@@ -14,6 +14,6 @@ Feel Free to download my duty script for QTARGET (Permissions has been given to 
 
 This script now supports Blips
 
-Support for SnailyCADV4's API by @Dev-CasperTheGhost Will be implemented soon!
+Support for SnailyCADV4's API by [@Casper](https://github.com/Dev-CasperTheGhost) Will be implemented soon!
 
 
