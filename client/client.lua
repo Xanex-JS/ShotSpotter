@@ -44,24 +44,19 @@ end
 end
 end)
 
-local blipActive = false
-
 RegisterNetEvent("ShotSpotterEventBlips")
 AddEventHandler("ShotSpotterEventBlips", function(source, x, y, z)
-  local isCop = exports.AspireRPV2:isPersonCop()
   local veh = GetLastDrivenVehicle(ped)
   local plate = GetVehicleNumberPlateText(veh)
   local ped = GetPlayerPed(-1)
   local plyPos = GetEntityCoords(ped,  true)
+  local gunshotBlip = AddBlipForRadius(plyPos.x, plyPos.y, plyPos.z, 1000.0)
 
-      -- if isCop then
-        local gunshotBlip = AddBlipForRadius(plyPos.x, plyPos.y, plyPos.z, 1000.0)
         SetBlipSprite(gunshotBlip, 161)
         SetBlipColour(gunshotBlip, 1)
         SetBlipAsShortRange(gunshotBlip, 0)
         Citizen.Wait(60000)
         SetBlipSprite(gunshotBlip, 2)
- -- end
 
 end)
 
