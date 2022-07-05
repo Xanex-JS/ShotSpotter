@@ -10,8 +10,8 @@ This script is undergoing development, which will include broken permissions and
 
 This is the development branch
 
-# Information 
+# Information
 
-This script now supports Blips 
+This script now supports Blips
 
-Suport for SnailyCADV4 by https://github.com/Dev-CasperTheGhost API Will be implemented soon! 
+Support for SnailyCADV4 by https://github.com/Dev-CasperTheGhost API Will be implemented soon! 
