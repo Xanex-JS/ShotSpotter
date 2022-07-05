@@ -1,9 +1,10 @@
 --[[
-    Author: AussieDropBears
+    Author: Joaquin_Guzman
     Description: ShotSpotter for FiveM
+    Notes: Made for discord.gg/doj
 ]]
 
-fx_version 'bodacious'
+fx_version 'adamant'
 game 'gta5'
 
 client_scripts {
@@ -12,6 +13,6 @@ client_scripts {
 }
 
 server_scripts {
-	-- 'server/server.lua',
+	'server.lua',
 	'config.lua'
 }
